@@ -1,2 +1,8 @@
-# NSESectorAnalysis
-NSESectorAnalysis
+# NSE Sectors Performance Analysis: A Comparative Study Using Pearson,Spearman and Kendall Methods with Mean and Deviation
+
+In this study, the correlation analysis of sector performances in the National Stock Exchange (NSE) is investigated using historical trading data. Python libraries are employed for data manipulation and visualization, facilitating the calculation of sector-wise daily returns and volatility. The analysis employs Pearson, Spearman, and Kendall correlation coefficients to uncover interrelations among sectors, offering insights into sectoral movements and dependencies. 
+
+The study addresses the problem of determining the correlation of sector performances within the NSE while considering all external factors as constants. The solution involves conducting a comparative analysis of sector performances utilizing Pearson, Spearman, and Kendall methods alongside Mean and Standard Deviation calculations. Historical trading data is processed using Python libraries, enabling the computation of sector-wise returns and volatility. Through this analysis, intersectoral correlations are examined, providing valuable insights for strategic decision-making in investment. The analysis output reveals the correlations among sectors within the NSE, highlighting the interdependencies and movements. The study's merit lies in its comprehensive approach to understanding sectoral performance correlations, which can aid investors in diversifying portfolios and making informed decisions. Possible applications include strategic investment planning, risk management, and portfolio optimization within the NSE.
+
+However, it's important to note that while calculating sector performance, the study does not account for external factors such as macroeconomic indicators, geopolitical events, currency fluctuations, or global market trends, which can significantly influence market behavior. Acknowledging these limitations is crucial for a holistic market analysis, as these externalities can dramatically impact sector performances and their correlations within the financial markets.
+
